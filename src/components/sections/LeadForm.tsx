@@ -239,7 +239,7 @@ export default function LeadForm() {
 
                 {/* Product */}
 
-                <div className="space-y-2">
+                {/* <div className="space-y-2">
 
                   <Label>Interested Product *</Label>
 
@@ -259,7 +259,7 @@ export default function LeadForm() {
 
                     <option>
                       SP Rotary Screw Compressor - 90-110 kW
-                    </option>
+                    </option> 
 
                     <option>
                       PM Rotary Screw Compressor - 11-45 kW
@@ -271,7 +271,7 @@ export default function LeadForm() {
 
                   </select>
 
-                </div>
+                </div> */}
 
 
 

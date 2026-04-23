@@ -258,7 +258,7 @@ export default function Hero() {
 
                   {/* Product */}
 
-                  <div className="space-y-2">
+                  {/* <div className="space-y-2">
 
                     <Label>Interested Product *</Label>
 
@@ -278,7 +278,7 @@ export default function Hero() {
 
                     </select>
 
-                  </div>
+                  </div> */}
 
 
 

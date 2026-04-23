@@ -161,7 +161,7 @@ export default function LeadPopup() {
             </div>
           </div>
 
-          <div>
+          {/* <div>
             <Label>Interested Product *</Label>
 
             <select
@@ -176,7 +176,7 @@ export default function LeadPopup() {
               <option>PM Rotary Screw Compressor - 11-45 kW</option>
               <option>Rotary Screw Compressor - 2.2-37 kW</option>
             </select>
-          </div>
+          </div> */}
  
           <div>
             <Label>Requirement</Label>
